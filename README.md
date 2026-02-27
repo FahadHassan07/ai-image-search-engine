@@ -27,7 +27,7 @@ This approach is called **Content-Based Image Retrieval (CBIR)**.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - OpenAI CLIP
