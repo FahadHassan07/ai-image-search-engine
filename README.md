@@ -15,7 +15,7 @@ The system allows users to upload an image and find the most similar images from
 
 ---
 
-## 🧠 How it Works
+##  How it Works
 
 1. Images are converted into **vector embeddings** using OpenAI CLIP.
 2. When a user uploads a query image:
